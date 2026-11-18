@@ -45,10 +45,10 @@ namespace
     constexpr uint32 SPELL_TOFU_COMMAND = 900002;
     constexpr uint32 SPELL_TOFU_COMMAND_BUFF = 900003;
 
-    constexpr uint32 NPC_WATER_ELEMENTAL = 510;
-    constexpr uint32 NPC_WATER_ELEMENTAL_GLYPHED = 37994;
-    constexpr uint32 NPC_SHADOWFIEND = 19668;
-    constexpr uint32 NPC_TREANT = 1964;
+    constexpr uint32 TOFU_NPC_WATER_ELEMENTAL = 510;
+    constexpr uint32 TOFU_NPC_WATER_ELEMENTAL_GLYPHED = 37994;
+    constexpr uint32 TOFU_NPC_SHADOWFIEND = 19668;
+    constexpr uint32 TOFU_NPC_TREANT = 1964;
 
     // Racial skill line of each playable race (SkillLine.dbc category 9).
     uint32 RacialSkillLine(uint8 race)
@@ -312,10 +312,10 @@ public:
     {
         switch (creature->GetEntry())
         {
-            case NPC_WATER_ELEMENTAL:
-            case NPC_WATER_ELEMENTAL_GLYPHED:
-            case NPC_SHADOWFIEND:
-            case NPC_TREANT:
+            case TOFU_NPC_WATER_ELEMENTAL:
+            case TOFU_NPC_WATER_ELEMENTAL_GLYPHED:
+            case TOFU_NPC_SHADOWFIEND:
+            case TOFU_NPC_TREANT:
                 break;
             default:
                 return;
