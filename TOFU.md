@@ -17,6 +17,6 @@ Fork of azerothcore/mod-racial-trait-swap for the Tofu Worldview server (mod-pla
 
 ## Requirements
 
-- The module folder must be named `wow-tofuworld-racial-trait-swap`: the script loader function is `Addwow_tofuworld_racial_trait_swapScripts`.
+- Deploy this repo under the upstream folder name `mod-racial-trait-swap` (in `WoW Projects\modules` and `C:\azerothcore\modules`): the script loader function is the upstream `Addmod_racial_trait_swapScripts`, and the core derives the loader it calls from the folder name. The dev clone's own folder name (`wow-tofuworld-racial-trait-swap`) does not matter.
 - Conf: copy `conf/RacialTraitSwap.conf.dist` to `configs/modules/RacialTraitSwap.conf` (keys unchanged from upstream).
 - NPC 98888 (Swirl) is created by `data/sql/db-world/base/world.RTS.sql` but not spawned; spawn it with `.npc add 98888`. Add 98888 to `Creatures.CustomIDs` in worldserver.conf to silence the gossip validation message.
