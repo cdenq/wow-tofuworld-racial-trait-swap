@@ -28,8 +28,12 @@
  */
 
 void AddSC_racial_traits_npc();
+void AddSC_tofu_racials();
 
-void Addmod_racial_trait_swapScripts()
+// The loader name is "Add" + the module folder name with "-" replaced by "_" + "Scripts" (modules/CMakeLists.txt).
+// This module must live in a folder named wow-tofuworld-racial-trait-swap.
+void Addwow_tofuworld_racial_trait_swapScripts()
 {
     AddSC_racial_traits_npc();
+    AddSC_tofu_racials();
 }
