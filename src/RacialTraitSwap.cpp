@@ -84,7 +84,7 @@
 #define LOCALE_GOLD_8 " Золото."
 
 // female icons
-#define LOCALE_BES_0 "|TInterface\\icons\\Achievement_Character_Bloodelf_Female:25|tBlood Elf Racial Trait Swap -"
+#define LOCALE_BES_0 "|TInterface\\icons\\Achievement_Character_Bloodelf_Female:25|tBlood Elf"
 #define LOCALE_BES_1 "|TInterface\\icons\\Achievement_Character_Bloodelf_Female:25|t블러드 엘프 인종 특성 스왑 -"
 #define LOCALE_BES_2 "|TInterface\\icons\\Achievement_Character_Bloodelf_Female:25|tÉchange de traits raciaux des elfes de sang -"
 #define LOCALE_BES_3 "|TInterface\\icons\\Achievement_Character_Bloodelf_Female:25|tRassenwechsel der Blutelfen -"
@@ -95,7 +95,7 @@
 #define LOCALE_BES_8 "|TInterface\\icons\\Achievement_Character_Bloodelf_Female:25|tОбмен расовой особенностью эльфов крови -"
 
 // male icons
-#define LOCALE_BES_9  "|TInterface\\icons\\Achievement_Character_Bloodelf_Male:25|tBlood Elf Racial Trait Swap -"
+#define LOCALE_BES_9  "|TInterface\\icons\\Achievement_Character_Bloodelf_Male:25|tBlood Elf"
 #define LOCALE_BES_10 "|TInterface\\icons\\Achievement_Character_Bloodelf_Male:25|t블러드 엘프 인종 특성 스왑 -"
 #define LOCALE_BES_11 "|TInterface\\icons\\Achievement_Character_Bloodelf_Male:25|tÉchange de traits raciaux des elfes de sang -"
 #define LOCALE_BES_12 "|TInterface\\icons\\Achievement_Character_Bloodelf_Male:25|tRassenwechsel der Blutelfen -"
@@ -106,7 +106,7 @@
 #define LOCALE_BES_17 "|TInterface\\icons\\Achievement_Character_Bloodelf_Male:25|tОбмен расовой особенностью эльфов крови -"
 
 // female icons
-#define LOCALE_DRS_0 "|TInterface\\icons\\Achievement_Character_Draenei_Female:25|tDraenei Racial Trait Swap  -"
+#define LOCALE_DRS_0 "|TInterface\\icons\\Achievement_Character_Draenei_Female:25|tDraenei"
 #define LOCALE_DRS_1 "|TInterface\\icons\\Achievement_Character_Draenei_Female:25|t드레나이 인종 특성 스왑 -"
 #define LOCALE_DRS_2 "|TInterface\\icons\\Achievement_Character_Draenei_Female:25|tÉchange de traits raciaux draeneï -"
 #define LOCALE_DRS_3 "|TInterface\\icons\\Achievement_Character_Draenei_Female:25|tDraenei Rasseneigenschaftstausch -"
@@ -117,7 +117,7 @@
 #define LOCALE_DRS_8 "|TInterface\\icons\\Achievement_Character_Draenei_Female:25|tОбмен расовыми особенностями дренеев -"
 
 // male icons
-#define LOCALE_DRS_9 "|TInterface\\icons\\Achievement_Character_Draenei_Male:25|tDraenei Racial Trait Swap  -"
+#define LOCALE_DRS_9 "|TInterface\\icons\\Achievement_Character_Draenei_Male:25|tDraenei"
 #define LOCALE_DRS_10 "|TInterface\\icons\\Achievement_Character_Draenei_Male:25|t드레나이 인종 특성 스왑 -"
 #define LOCALE_DRS_11 "|TInterface\\icons\\Achievement_Character_Draenei_Male:25|tÉchange de traits raciaux draeneï -"
 #define LOCALE_DRS_12 "|TInterface\\icons\\Achievement_Character_Draenei_Male:25|tDraenei Rasseneigenschaftstausch -"
@@ -128,7 +128,7 @@
 #define LOCALE_DRS_17 "|TInterface\\icons\\Achievement_Character_Draenei_Male:25|tОбмен расовыми особенностями дренеев -"
 
 // female icons
-#define LOCALE_DWS_0 "|TInterface\\icons\\Achievement_Character_Dwarf_Female:25|tDwarven Racial Trait Swap -"
+#define LOCALE_DWS_0 "|TInterface\\icons\\Achievement_Character_Dwarf_Female:25|tDwarf"
 #define LOCALE_DWS_1 "|TInterface\\icons\\Achievement_Character_Dwarf_Female:25|t드워프 종족 특성 전환 -"
 #define LOCALE_DWS_2 "|TInterface\\icons\\Achievement_Character_Dwarf_Female:25|tÉchange de traits raciaux nains -"
 #define LOCALE_DWS_3 "|TInterface\\icons\\Achievement_Character_Dwarf_Female:25|tTausch der Rasseneigenschaften der Zwerge -"
@@ -139,7 +139,7 @@
 #define LOCALE_DWS_8 "|TInterface\\icons\\Achievement_Character_Dwarf_Female:25|tОбмен расовыми особенностями гномов -"
 
 // male icons
-#define LOCALE_DWS_9 "|TInterface\\icons\\Achievement_Character_Dwarf_Male:25|tDwarven Racial Trait Swap -"
+#define LOCALE_DWS_9 "|TInterface\\icons\\Achievement_Character_Dwarf_Male:25|tDwarf"
 #define LOCALE_DWS_10 "|TInterface\\icons\\Achievement_Character_Dwarf_Male:25|t드워프 종족 특성 전환 -"
 #define LOCALE_DWS_11 "|TInterface\\icons\\Achievement_Character_Dwarf_Male:25|tÉchange de traits raciaux nains -"
 #define LOCALE_DWS_12 "|TInterface\\icons\\Achievement_Character_Dwarf_Male:25|tTausch der Rasseneigenschaften der Zwerge -"
@@ -150,7 +150,7 @@
 #define LOCALE_DWS_17 "|TInterface\\icons\\Achievement_Character_Dwarf_Male:25|tОбмен расовыми особенностями гномов -"
 
 // female icons
-#define LOCALE_GNS_0 "|TInterface\\icons\\Achievement_Character_Gnome_Female:25|tGnome Racial Trait Swap -"
+#define LOCALE_GNS_0 "|TInterface\\icons\\Achievement_Character_Gnome_Female:25|tGnome"
 #define LOCALE_GNS_1 "|TInterface\\icons\\Achievement_Character_Gnome_Female:25|t그놈 인종 특성 스왑 -"
 #define LOCALE_GNS_2 "|TInterface\\icons\\Achievement_Character_Gnome_Female:25|tÉchange de traits raciaux de gnome -"
 #define LOCALE_GNS_3 "|TInterface\\icons\\Achievement_Character_Gnome_Female:25|tTausch der Rasseneigenschaft Gnom -"
@@ -161,7 +161,7 @@
 #define LOCALE_GNS_8 "|TInterface\\icons\\Achievement_Character_Gnome_Female:25|tСмена расовой особенности гномов -"
 
 // male icons
-#define LOCALE_GNS_9 "|TInterface\\icons\\Achievement_Character_Gnome_Male:25|tGnome Racial Trait Swap -"
+#define LOCALE_GNS_9 "|TInterface\\icons\\Achievement_Character_Gnome_Male:25|tGnome"
 #define LOCALE_GNS_10 "|TInterface\\icons\\Achievement_Character_Gnome_Male:25|t그놈 인종 특성 스왑 -"
 #define LOCALE_GNS_11 "|TInterface\\icons\\Achievement_Character_Gnome_Male:25|tÉchange de traits raciaux de gnome -"
 #define LOCALE_GNS_12 "|TInterface\\icons\\Achievement_Character_Gnome_Male:25|tTausch der Rasseneigenschaft Gnom -"
@@ -172,7 +172,7 @@
 #define LOCALE_GNS_17 "|TInterface\\icons\\Achievement_Character_Gnome_Male:25|tСмена расовой особенности гномов -"
 
 // female icons
-#define LOCALE_HUS_0 "|TInterface\\icons\\Achievement_Character_Human_Female:25|tHuman Racial Trait Swap -"
+#define LOCALE_HUS_0 "|TInterface\\icons\\Achievement_Character_Human_Female:25|tHuman"
 #define LOCALE_HUS_1 "|TInterface\\icons\\Achievement_Character_Human_Female:25|t인간 인종 특성 교환 -"
 #define LOCALE_HUS_2 "|TInterface\\icons\\Achievement_Character_Human_Female:25|tÉchange de traits raciaux humains -"
 #define LOCALE_HUS_3 "|TInterface\\icons\\Achievement_Character_Human_Female:25|tAustausch von menschlichen Rassenmerkmalen -"
@@ -183,7 +183,7 @@
 #define LOCALE_HUS_8 "|TInterface\\icons\\Achievement_Character_Human_Female:25|tОбмен расовыми особенностями человека -"
 
 // male icons
-#define LOCALE_HUS_9 "|TInterface\\icons\\Achievement_Character_Human_Male:25|tHuman Racial Trait Swap -"
+#define LOCALE_HUS_9 "|TInterface\\icons\\Achievement_Character_Human_Male:25|tHuman"
 #define LOCALE_HUS_10 "|TInterface\\icons\\Achievement_Character_Human_Male:25|t인간 인종 특성 교환 -"
 #define LOCALE_HUS_11 "|TInterface\\icons\\Achievement_Character_Human_Male:25|tÉchange de traits raciaux humains -"
 #define LOCALE_HUS_12 "|TInterface\\icons\\Achievement_Character_Human_Male:25|tAustausch von menschlichen Rassenmerkmalen -"
@@ -194,7 +194,7 @@
 #define LOCALE_HUS_17 "|TInterface\\icons\\Achievement_Character_Human_Male:25|tОбмен расовыми особенностями человека -"
 
 // female icons
-#define LOCALE_NES_0 "|TInterface\\icons\\Achievement_Character_Nightelf_Female:25|tNight Elf Racial Trait Swap -"
+#define LOCALE_NES_0 "|TInterface\\icons\\Achievement_Character_Nightelf_Female:25|tNight Elf"
 #define LOCALE_NES_1 "|TInterface\\icons\\Achievement_Character_Nightelf_Female:25|t나이트 엘프 인종 특성 스왑 -"
 #define LOCALE_NES_2 "|TInterface\\icons\\Achievement_Character_Nightelf_Female:25|tÉchange de traits raciaux des elfes de la nuit -"
 #define LOCALE_NES_3 "|TInterface\\icons\\Achievement_Character_Nightelf_Female:25|tTausch der Nachtelfen-Rasseneigenschaft -"
@@ -205,7 +205,7 @@
 #define LOCALE_NES_8 "|TInterface\\icons\\Achievement_Character_Nightelf_Female:25|tОбмен расовыми особенностями ночных эльфов -"
 
 // male icons
-#define LOCALE_NES_9 "|TInterface\\icons\\Achievement_Character_Nightelf_Male:25|tNight Elf Racial Trait Swap -"
+#define LOCALE_NES_9 "|TInterface\\icons\\Achievement_Character_Nightelf_Male:25|tNight Elf"
 #define LOCALE_NES_10 "|TInterface\\icons\\Achievement_Character_Nightelf_Male:25|t나이트 엘프 인종 특성 스왑 -"
 #define LOCALE_NES_11 "|TInterface\\icons\\Achievement_Character_Nightelf_Male:25|tÉchange de traits raciaux des elfes de la nuit -"
 #define LOCALE_NES_12 "|TInterface\\icons\\Achievement_Character_Nightelf_Male:25|tTausch der Nachtelfen-Rasseneigenschaft -"
@@ -216,7 +216,7 @@
 #define LOCALE_NES_17 "|TInterface\\icons\\Achievement_Character_Nightelf_Male:25|tОбмен расовыми особенностями ночных эльфов -"
 
 // female icons
-#define LOCALE_ORC_0 "|TInterface\\icons\\Achievement_Character_Orc_Female:25|tOrc Racial Trait Swap -"
+#define LOCALE_ORC_0 "|TInterface\\icons\\Achievement_Character_Orc_Female:25|tOrc"
 #define LOCALE_ORC_1 "|TInterface\\icons\\Achievement_Character_Orc_Female:25|t오크 종족 특성 교환 -"
 #define LOCALE_ORC_2 "|TInterface\\icons\\Achievement_Character_Orc_Female:25|tÉchange de traits raciaux orques -"
 #define LOCALE_ORC_3 "|TInterface\\icons\\Achievement_Character_Orc_Female:25|tAustausch der Ork-Rassenmerkmale -"
@@ -227,7 +227,7 @@
 #define LOCALE_ORC_8 "|TInterface\\icons\\Achievement_Character_Orc_Female:25|tСмена расовой особенности орков -"
 
 // male icons
-#define LOCALE_ORC_9 "|TInterface\\icons\\Achievement_Character_Orc_Male:25|tOrc Racial Trait Swap -"
+#define LOCALE_ORC_9 "|TInterface\\icons\\Achievement_Character_Orc_Male:25|tOrc"
 #define LOCALE_ORC_10 "|TInterface\\icons\\Achievement_Character_Orc_Male:25|t오크 종족 특성 교환 -"
 #define LOCALE_ORC_11 "|TInterface\\icons\\Achievement_Character_Orc_Male:25|tÉchange de traits raciaux orques -"
 #define LOCALE_ORC_12 "|TInterface\\icons\\Achievement_Character_Orc_Male:25|tAustausch der Ork-Rassenmerkmale -"
@@ -238,7 +238,7 @@
 #define LOCALE_ORC_17 "|TInterface\\icons\\Achievement_Character_Orc_Male:25|tСмена расовой особенности орков -"
 
 // female icons
-#define LOCALE_TUR_0 "|TInterface\\icons\\Achievement_Character_Tauren_Female:25|tTauren Racial Trait Swap -"
+#define LOCALE_TUR_0 "|TInterface\\icons\\Achievement_Character_Tauren_Female:25|tTauren"
 #define LOCALE_TUR_1 "|TInterface\\icons\\Achievement_Character_Tauren_Female:25|t타우렌 인종 특성 교환 -"
 #define LOCALE_TUR_2 "|TInterface\\icons\\Achievement_Character_Tauren_Female:25|tÉchange de traits raciaux Tauren -"
 #define LOCALE_TUR_3 "|TInterface\\icons\\Achievement_Character_Tauren_Female:25|tTauren Rasseneigenschaftstausch -"
@@ -249,7 +249,7 @@
 #define LOCALE_TUR_8 "|TInterface\\icons\\Achievement_Character_Tauren_Female:25|tОбмен расовыми особенностями тауренов -"
 
 // male icons
-#define LOCALE_TUR_9 "|TInterface\\icons\\Achievement_Character_Tauren_Male:25|tTauren Racial Trait Swap -"
+#define LOCALE_TUR_9 "|TInterface\\icons\\Achievement_Character_Tauren_Male:25|tTauren"
 #define LOCALE_TUR_10 "|TInterface\\icons\\Achievement_Character_Tauren_Male:25|t타우렌 인종 특성 교환 -"
 #define LOCALE_TUR_11 "|TInterface\\icons\\Achievement_Character_Tauren_Male:25|tÉchange de traits raciaux Tauren -"
 #define LOCALE_TUR_12 "|TInterface\\icons\\Achievement_Character_Tauren_Male:25|tTauren Rasseneigenschaftstausch -"
@@ -260,7 +260,7 @@
 #define LOCALE_TUR_17 "|TInterface\\icons\\Achievement_Character_Tauren_Male:25|tОбмен расовыми особенностями тауренов -"
 
 // female icons
-#define LOCALE_TRL_0 "|TInterface\\icons\\Achievement_Character_Troll_Female:25|tTroll Racial Trait Swap -"
+#define LOCALE_TRL_0 "|TInterface\\icons\\Achievement_Character_Troll_Female:25|tTroll"
 #define LOCALE_TRL_1 "|TInterface\\icons\\Achievement_Character_Troll_Female:25|t트롤 인종 특성 교환 -"
 #define LOCALE_TRL_2 "|TInterface\\icons\\Achievement_Character_Troll_Female:25|tÉchange de traits raciaux de troll -"
 #define LOCALE_TRL_3 "|TInterface\\icons\\Achievement_Character_Troll_Female:25|tTroll-Rasseneigenschaftstausch -"
@@ -271,7 +271,7 @@
 #define LOCALE_TRL_8 "|TInterface\\icons\\Achievement_Character_Troll_Female:25|tОбмен расовой особенности троллей -"
 
 // male icons
-#define LOCALE_TRL_9 "|TInterface\\icons\\Achievement_Character_Troll_Male:25|tTroll Racial Trait Swap -"
+#define LOCALE_TRL_9 "|TInterface\\icons\\Achievement_Character_Troll_Male:25|tTroll"
 #define LOCALE_TRL_10 "|TInterface\\icons\\Achievement_Character_Troll_Male:25|t트롤 인종 특성 교환 -"
 #define LOCALE_TRL_11 "|TInterface\\icons\\Achievement_Character_Troll_Male:25|tÉchange de traits raciaux de troll -"
 #define LOCALE_TRL_12 "|TInterface\\icons\\Achievement_Character_Troll_Male:25|tTroll-Rasseneigenschaftstausch -"
@@ -282,7 +282,7 @@
 #define LOCALE_TRL_17 "|TInterface\\icons\\Achievement_Character_Troll_Male:25|tОбмен расовой особенности троллей -"
 
 // female icons
-#define LOCALE_UND_0 "|TInterface\\icons\\Achievement_Character_Undead_Female:25|tUndead Racial Trait Swap -"
+#define LOCALE_UND_0 "|TInterface\\icons\\Achievement_Character_Undead_Female:25|tUndead"
 #define LOCALE_UND_1 "|TInterface\\icons\\Achievement_Character_Undead_Female:25|t언데드 인종 특성 스왑 -"
 #define LOCALE_UND_2 "|TInterface\\icons\\Achievement_Character_Undead_Female:25|tÉchange de traits raciaux morts-vivants -"
 #define LOCALE_UND_3 "|TInterface\\icons\\Achievement_Character_Undead_Female:25|tUntoter Rassenmerkmalentausch -"
@@ -293,7 +293,7 @@
 #define LOCALE_UND_8 "|TInterface\\icons\\Achievement_Character_Undead_Female:25|tСмена расовой особенности нежити -"
 
 // male icons
-#define LOCALE_UND_9 "|TInterface\\icons\\Achievement_Character_Undead_Male:25|tUndead Racial Trait Swap -"
+#define LOCALE_UND_9 "|TInterface\\icons\\Achievement_Character_Undead_Male:25|tUndead"
 #define LOCALE_UND_10 "|TInterface\\icons\\Achievement_Character_Undead_Male:25|t언데드 인종 특성 스왑 -"
 #define LOCALE_UND_11 "|TInterface\\icons\\Achievement_Character_Undead_Male:25|tÉchange de traits raciaux morts-vivants -"
 #define LOCALE_UND_12 "|TInterface\\icons\\Achievement_Character_Undead_Male:25|tUntoter Rassenmerkmalentausch -"
@@ -657,25 +657,45 @@ public:
         }
 
         std::ostringstream messageBE;
-        messageBE << localizedBES << RTS1 << localizedGold;
+        messageBE << localizedBES;
+        if (RTS1 > 0)
+            messageBE << " - " << RTS1 << localizedGold;
         std::ostringstream messageDR;
-        messageDR << localizedDRS << RTS1 << localizedGold;
+        messageDR << localizedDRS;
+        if (RTS1 > 0)
+            messageDR << " - " << RTS1 << localizedGold;
         std::ostringstream messageDW;
-        messageDW << localizedDWS << RTS1 << localizedGold;
+        messageDW << localizedDWS;
+        if (RTS1 > 0)
+            messageDW << " - " << RTS1 << localizedGold;
         std::ostringstream messageGN;
-        messageGN << localizedGNS << RTS1 << localizedGold;
+        messageGN << localizedGNS;
+        if (RTS1 > 0)
+            messageGN << " - " << RTS1 << localizedGold;
         std::ostringstream messageHU;
-        messageHU << localizedHUS << RTS1 << localizedGold;
+        messageHU << localizedHUS;
+        if (RTS1 > 0)
+            messageHU << " - " << RTS1 << localizedGold;
         std::ostringstream messageNE;
-        messageNE << localizedNES << RTS1 << localizedGold;
+        messageNE << localizedNES;
+        if (RTS1 > 0)
+            messageNE << " - " << RTS1 << localizedGold;
         std::ostringstream messageOR;
-        messageOR << localizedORC << RTS1 << localizedGold;
+        messageOR << localizedORC;
+        if (RTS1 > 0)
+            messageOR << " - " << RTS1 << localizedGold;
         std::ostringstream messageTA;
-        messageTA << localizedTUR << RTS1 << localizedGold;
+        messageTA << localizedTUR;
+        if (RTS1 > 0)
+            messageTA << " - " << RTS1 << localizedGold;
         std::ostringstream messageTR;
-        messageTR << localizedTRL << RTS1 << localizedGold;
+        messageTR << localizedTRL;
+        if (RTS1 > 0)
+            messageTR << " - " << RTS1 << localizedGold;
         std::ostringstream messageUN;
-        messageUN << localizedUND << RTS1 << localizedGold;
+        messageUN << localizedUND;
+        if (RTS1 > 0)
+            messageUN << " - " << RTS1 << localizedGold;
 
         ClearGossipMenuFor(player);
 
