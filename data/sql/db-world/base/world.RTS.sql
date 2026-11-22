@@ -1,6 +1,6 @@
 -- NPC ID 98888 Swirl
 SET @NAME := 'Swirl';
-SET @SUBNAME := 'Tofu Racial Swapper';
+SET @SUBNAME := 'Racial Swapper';
 SET @DISPLAY_ID := 19646;
 
 DELETE FROM `creature_template` WHERE `entry`=98888;
