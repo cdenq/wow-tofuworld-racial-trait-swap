@@ -13,6 +13,7 @@ Fork of azerothcore/mod-racial-trait-swap for the Tofu Worldview server (mod-pla
   - 900002 Command for mages, priests, and druids, and 900003, the 5% damage aura it puts on a Water Elemental (510, 37994), Shadowfiend (19668), or Treant (1964).
   - Skill-line rows 900000 to 900004: the two Arcane Torrents on the Blood Elf line, Gift of the Naaru 59548 (warlock) and 59547 (druid) on the Draenei line, and Command 900002 on the Orc line.
 - The custom spells need the Tofu client patch (Spell.dbc rows 900000 to 900003) to show their names, icons, and tooltips.
+- Swirl's menu picks male or female race labels from the character's own gender (`PLAYER_BYTES_3`), not the display gender, which a shapeshift or morph sets from the model (Tree of Life is GENDER_NONE). Upstream left every label null in that case and crashed the worldserver on any option click.
 - Overrides of mod-uac and stock rows (12041, 21984, 21987) live in the server's custom SQL (wow-tofuworld-internal, `tofu_2026_11_18_04_racial_variant_overrides.sql`), not here.
 
 ## Requirements

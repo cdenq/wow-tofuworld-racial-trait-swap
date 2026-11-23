@@ -427,7 +427,10 @@ public:
                 localizedGold = LOCALE_GOLD_0;
         }
 
-        if (player->getGender() == GENDER_FEMALE)
+        // Use the character's own gender: a shapeshift or morph sets the display gender (UNIT_FIELD_BYTES_0) from the model, which can be GENDER_NONE and left every label null (crash in tree form, 2026-11-23).
+        uint8 const nativeGender = player->GetByteValue(PLAYER_BYTES_3, PLAYER_BYTES_3_OFFSET_GENDER);
+
+        if (nativeGender == GENDER_FEMALE)
         {
             switch (player->GetSession()->GetSessionDbcLocale())
             {
@@ -541,7 +544,7 @@ public:
                     localizedUND = LOCALE_UND_0;
             }
         }
-        else if (player->getGender() == GENDER_MALE)
+        else // GENDER_MALE, and the fallback so the labels are never null
         {
             switch (player->GetSession()->GetSessionDbcLocale())
             {
